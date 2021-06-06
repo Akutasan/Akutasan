@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akutasan
 - 👀 I’m interested in programming ig? Oh yeah and teaching.
 - 🌱 I’m currently learning uhm... Python?
-- 💞️ I’m looking to collaborate on nothing particular.
+- 💞️ I’m looking to collaborate with anyone who has a good idea ;)
 - 📫 How to reach me: Discord: Akutasan#2256, Twitter: @realAkutasan
 
 <!---
