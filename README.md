@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Akutasan
-- 👀 I’m interested in programming ig? Oh yeah and teaching.
-- 🌱 I’m currently learning uhm... Python?
-- 💞️ I’m looking to collaborate with anyone who has a good idea ;)
-- 📫 How to reach me: Discord: Akutasan#2256, Twitter: @realAkutasan
+- 👋 Hi, I’m @Aku
+- 👀 I’m interested in programming I guess? Oh yeah and teaching.
+- 💞️ I'm currently working in ABMC, GhibliCraft and in DisZen!
+- 📫 How to reach me: Discord: [Akutasan#2256](https://discord.com/users/506942317467533374), Twitter: [@realAkutasan](https://twitter.com/realakutasan)
 
 <!---
 Akutasan/Akutasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
