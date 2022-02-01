@@ -2,7 +2,7 @@
 My name's <a href="https://github.com/Akutasan">@Aku</a> and I'm a fulltime Ramen connoisseur and occasional developer.
 
 ```python
-class Coder:
+class male:
     def __init__(self, name, yearsExperience, languages, programmingLang):
         self.name = "Aku"
         self.yearsExperience = 6
