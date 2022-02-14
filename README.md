@@ -1,5 +1,5 @@
 # Hey! <img src="https://i.imgur.com/galQvre.gif" width="38px"/> 
-My name's <a href="https://github.com/Akutasan">@Aku</a> and I'm a fulltime Ramen connoisseur and occasional developer.
+My name's <a href="https://github.com/Akutasan">@Aku</a> and I'm a self-proclaimed fulltime Ramen connoisseur and occasional developer.
 
 ```python
 class male:
