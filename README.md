@@ -1,4 +1,4 @@
-# Hey! <!---<img src="https://i.imgur.com/galQvre.gif" width="38px"/> --->
+# Hey! 
 My name's <a href="https://github.com/Akutasan">@Aku</a> and I'm a self-proclaimed fulltime Ramen connoisseur and occasional developer.
 
 ```python
@@ -20,5 +20,5 @@ Follow me on <a href="https://twitter.com/realakutasan"><img src="https://i.imgu
 
 <!---
 Akutasan/Akutasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. <img src="https://i.imgur.com/galQvre.gif" width="38px"/>
 --->
