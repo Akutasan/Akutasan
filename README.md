@@ -1,11 +1,11 @@
 # Hey! 
-My name's <a href="https://github.com/Akutasan">@Aku</a> and I'm a self-proclaimed fulltime Ramen connoisseur and occasional developer.
+My name's <a href="https://github.com/Akutasan">@Aku</a>, and I'm a self-proclaimed full-time Ramen connoisseur and occasional developer.
 
 ```python
-class male:
-    def __init__(self, name, yearsExperience, languages, programmingLang):
+class Male:
+    def __init__(self):
         self.name = "Aku"
-        self.yearsExperience = 6
+        self.yearsExperience = 7
         self.languages = ["English", "German", "Japanese"]
         self.programmingLang = ["Java", "Python"]
        
