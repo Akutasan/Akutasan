@@ -1,5 +1,5 @@
 # Helloo <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
-I'm <a href="https://github.com/Akutasan">@Aku</a>, a self-proclaimed full-time Ramen connoisseur and occasional developer.
+I'm <a href="https://github.com/Akutasan">@Aku</a>, a self-proclaimed full-time Ramen connoisseur.
 
 ![](https://github.com/Akutasan/Akutasan/blob/main/lnuch.gif)
 <h6>this is what I look like if you ever spot me eating lunch</h6>
