@@ -2,7 +2,7 @@
 I'm <a href="https://github.com/Akutasan">@Aku</a>, a self-proclaimed Ramen connoisseur.
 
 ![](https://i.giphy.com/9knM4mgXRlMfTmgzZA.webp)
-<h6>me looking through all the bullshit I call code trying to find my will to live</h6>
+<h6></h6>
 
 ##
 <h5>
